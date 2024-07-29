@@ -1,5 +1,5 @@
 ![](TikTok.jpg)
-# TikTok Project
+# TikTok Video Classification Project
 ### Purpose
 TikTok is a platform for producing and viewing short-term mobile videos. Users of the platform can report videos and comments that contain claims versus opinions. With the high number of submissions and interactions on TikTok each day, it is challenging for human moderators to review efficiently each video, comment, and claim concerning content. TikTok wants to reduce the backlog of user reports and prioritize `claim` reports. **The goal of this project is to mitigate misinformation in videos on the TikTok platform by building a reliable machine learning model which will help reduce report backlog**.
 
